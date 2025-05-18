@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:231401085@rajalakshmi.edu.in">
-    <img src="https://img.shields.io/badge/Email-231401085@rajalakshmi.edu.in-red?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-rohinis17112005@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/rohini-s-8a9106321" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
